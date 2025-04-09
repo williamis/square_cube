@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include <cmath>  // Tämä tarvitaan, jos haluat käyttää matemaattisia funktioita, kuten neliöjuuri
+#include <cmath>  
 
 int main() {
     // Pyydetään käyttäjää syöttämään luku
